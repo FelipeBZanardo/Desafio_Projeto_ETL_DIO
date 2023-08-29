@@ -36,7 +36,7 @@ Prepare-se para uma jornada prática pelo mundo da Ciência de Dados neste víde
 ### Google Colab:
 
 1) Abrir o projeto através do link: [https://colab.research.google.com/drive/1Mu-x7HfBnwq4mMPn6ot0wG_OFHk60548?usp=sharing](https://colab.research.google.com/drive/1Mu-x7HfBnwq4mMPn6ot0wG_OFHk60548?usp=sharing)
-2) Fazer o download do arquivo []() e fazer o upload na pasta do Colab  
+2) Fazer o download do arquivo [banco_dados.csv](https://github.com/FelipeBZanardo/Desafio_Projeto_ETL_DIO/blob/main/banco_dados.csv) e fazer o upload na pasta do Colab  
 3) Colar a URL copiada do item anterior no local indicado do Colab conforme imagem abaixo :
 <p align="center">
   <img src="./_captures/url.jpg">
