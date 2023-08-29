@@ -28,7 +28,7 @@ Prepare-se para uma jornada prática pelo mundo da Ciência de Dados neste víde
 ## ⚙️ Executar o projeto:
 ### Back-end:
 1) Fazer o clone do repositório do projeto [Projeto-Final-Web-II](https://github.com/FelipeBZanardo/Projeto-Final-Web-II);
-2) Selecionar o diretório "Back-end/minha-quina", abrir o projeto na IDE e dar play na aplicação "MinhaQuinaApplication";
+2) Selecionar o diretório "minha-quina", abrir o projeto na IDE e dar play na aplicação "MinhaQuinaApplication";
 3) Abrir o Terminal e digitar:
 	`ssh -p 443 -R0:localhost:8080 -L4300:localhost:4300 qr@a.pinggy.io`
 4) Copiar a URL que aparecerá no terminal (essa URL será utilizada no Google Colab a seguir)
